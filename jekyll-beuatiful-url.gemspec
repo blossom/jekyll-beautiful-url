@@ -5,7 +5,7 @@ require 'jekyll/beautiful_url/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "jekyll-beautiful-url"
-  spec.version       = Jekyll::Timeago::VERSION
+  spec.version       = Jekyll::BeautifulUrl::VERSION
   spec.authors       = ["nikgraf"]
   spec.email         = ["nik@blossom.io"]
   spec.description   = %q{Beautiful Urls for Jekyll pages.}
